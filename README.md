@@ -17,7 +17,7 @@ Do private audits with [Hashlock](http://hashlock.com/)
 | № | Date    | Provider          | Project    | Category          | Vulnerabilities       | Report | Language           |
 |---|---------|-------------------|------------|-------------------|-----------------------|--------|--------------------|
 | 1 | 09.2025 | Hashlock          | Lockon     | Token Vesting | 4H, 10M, 11 L         | -      | Solidity           |
-| 2 | 09.2024 | Hashlock          | Spiral Stake  | Leverage Farming              | 2H, 4M, 6L           | -     | Solidity           |
+| 2 | 09.2025 | Hashlock          | Spiral Stake  | Leverage Farming              | 2H, 4M, 6L           | -     | Solidity           |
 | 3 | 11.2025 | Hashlock          | Tenex Subnet       | Blockchain              | 3C, 9H, 9M            | -     | Solidity           |
 
 ## Private Audits
