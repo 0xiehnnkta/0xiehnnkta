@@ -1,9 +1,51 @@
+# Hi, I'm Nikethan
+
+Security Researcher at [TECHFUND Inc](https://techfund.jp/en) — A Japanese StartUp Accelerator & Auditing Platform for Web2 & Web3 companies. Completed 10+ client audits since joining. Reached **1st place** in a Sherlock audit competition.
+
+## Strong Areas
+
+```
+  Staking                    ████████▓░  4.5/5
+  AMMs (DLMM/CLMM/etc.)      ████████▓░  4.5/5
+  Uniswap Integrations       ████████░░  4/5
+  Lending & Borrowing        ████████░░  4/5
+  Prediction Markets         ████████░░  4/5
+  Bridges & Cross-Chain      ███████░░░  3.5/5
+```
+
+## Audits
+
+```
+  30+ Criticals & Highs  ·  Tons of Mediums & Lows  ·  15+ Total Engagements
+```
+> Recent Private Audits (Showing only in past 6months)
 
 
+| № | Date | Provider | Project | Category | Vulnerabilities | Language |
+|---|------|----------|---------|----------|-----------------|----------|
+| 1 | 12.2025 | Private | Umbrea | DLMM | 6C, 6H, 7M, 13L | Solidity |
+| 2 | 11.2025 | Hashlock | Tenex Subnet | Blockchain | 3C, 9H, 9M | Solidity |
+| 3 | 09.2025 | Hashlock | Lockon | Token Vesting | 4H, 10M, 11L | Solidity |
+| 4 | 09.2025 | Hashlock | Spiral Stake | Leverage Farming | 2H, 4M, 6L | Solidity |
 
-Hi there, this is Nikethan, currently working as Security Researcher at [TECHFUND Inc](https://techfund.jp/en) - A Japanese StartUp Accelerator & Auditing Platform for both Web2 & Web3 companies. 
+*+ additional engagements under NDA.*
 
-Do private audits with [Hashlock](http://hashlock.com/)
+## Contests
+
+**Solo**
+
+| № | Date | Project | Category | Vulnerabilities | Rank |
+|---|------|---------|----------|-----------------|------|
+| 1 | 01.2025 | [Butter](https://immunefi.com/audit-competition/audit-comp-butter) | Prediction Market | 1 Insight | Top 5 |
+| 2 | 02.2025 | [Rova](https://audits.sherlock.xyz/contests/498) | Token Launchpad | 1M | Top 3 |
+| 3 | 06.2025 | [DoDo](https://audits.sherlock.xyz/contests/991) | Cross-chain DEX | 1H, 3M | - |
+| 4 | 10.2025 | [Belong](https://immunefi.com/audit-competition/audit-comp-belong/) | GameFi | 2C, 3M, 2 Insights | Top 10 |
+
+**Team**
+
+| № | Date | Project | Category | Vulnerabilities | Rank |
+|---|------|---------|----------|-----------------|------|
+| 1 | 08.2025 | [Neutrl](https://audits.sherlock.xyz/contests/1065) | Yield Farming | 1M | 1st |
 
 ## Writings
 
@@ -12,38 +54,6 @@ Do private audits with [Hashlock](http://hashlock.com/)
 3. [Minimum Bytecode, Maximum Meaning](https://techfund.jp/en/media/ethernaut_magic_number)
 4. [The Role of EIP-4844 and Blobs in Scaling Ethereum](https://techfund.jp/en/media/eip-4844)
 
-## Team Audits
+## Connect
 
-| № | Date    | Provider          | Project    | Category          | Vulnerabilities       | Report | Language           |
-|---|---------|-------------------|------------|-------------------|-----------------------|--------|--------------------|
-| 1 | 09.2025 | Hashlock          | Lockon     | Token Vesting | 4H, 10M, 11 L         | -      | Solidity           |
-| 2 | 09.2025 | Hashlock          | Spiral Stake  | Leverage Farming              | 2H, 4M, 6L           | -     | Solidity           |
-| 3 | 11.2025 | Hashlock          | Tenex Subnet       | Blockchain              | 3C, 9H, 9M            | -     | Solidity           |
-
-## Private Audits
-
-| № | Date    | Project    | Category          | Vulnerabilities       | Report | Language           |
-|---|---------|------------|-------------------|-----------------------|--------|--------------------|
-| 1 | 12.2025 | Umbrea     | DLMM | 6C, 6H, 7M, 13L         | -      | Solidity           |
-
-## Contests
-
-### Solo
-
-| № | Date    | Project | Category         | Vulnerabilities        | Language | Rank   |
-|---|---------|---------|------------------|------------------------|----------|--------|
-| 1 | 01.2025 | [Butter](https://immunefi.com/audit-competition/audit-comp-butter) | Prediction Market | 1 Insight | Solidity | Top 5 |
-| 2 | 02.2025 | [Rova](https://audits.sherlock.xyz/contests/498) | Token Launchpad | 1M | Solidity | Top 3 |
-| 3 | 06.2025 | [DoDo](https://audits.sherlock.xyz/contests/991) | Cross-chain DEX | 1H, 3M | Solidity | - |
-| 4 | 10.2025 | [Belong](https://immunefi.com/audit-competition/audit-comp-belong/) | GameFi | 2C, 3M, 2 Insights | Solidity | Top 10 |
-
-### Team
-
-| № | Date    | Project      | Category             | Vulnerabilities |Language  | Rank  |
-|---|---------|--------------|----------------------|-----------------|----------|-------|
-| 1 | 08.2025 | [Neutrl](https://audits.sherlock.xyz/contests/1065)  | Yield Farming       | 1M   | Solidity  | 1st     |
-
-### Speak/Connect with me
-
-- X - [Link](https://x.com/0xiehnnkta)
-- Email - [Link](mailto:0xiehnnkta@gmail.com) 
+[![X](https://img.shields.io/badge/X-@0xiehnnkta-000?style=flat&logo=x)](https://x.com/0xiehnnkta) [![Email](https://img.shields.io/badge/Email-0xiehnnkta@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:0xiehnnkta@gmail.com)
