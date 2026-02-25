@@ -38,7 +38,6 @@ Security Researcher at [TECHFUND Inc](https://techfund.jp/en) — A Japanese Sta
 |---|------|---------|----------|-----------------|------|
 | 1 | 01.2025 | [Butter](https://immunefi.com/audit-competition/audit-comp-butter) | Prediction Market | 1 Insight | Top 5 |
 | 2 | 02.2025 | [Rova](https://audits.sherlock.xyz/contests/498) | Token Launchpad | 1M | Top 3 |
-| 3 | 06.2025 | [DoDo](https://audits.sherlock.xyz/contests/991) | Cross-chain DEX | 1H, 3M | - |
 | 4 | 10.2025 | [Belong](https://immunefi.com/audit-competition/audit-comp-belong/) | GameFi | 2C, 3M, 2 Insights | Top 10 |
 
 **Team**
