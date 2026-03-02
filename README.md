@@ -21,12 +21,12 @@ Security Researcher at [TECHFUND Inc](https://techfund.jp/en) — A Japanese Sta
 > Recent Private Audits (Showing only in past 6months)
 
 
-| № | Date | Provider | Project | Category | Vulnerabilities | Language |
-|---|------|----------|---------|----------|-----------------|----------|
-| 1 | 12.2025 | Private | Umbrea | DLMM | 6C, 6H, 7M, 13L | Solidity |
-| 2 | 11.2025 | Hashlock | Tenex Subnet | Blockchain | 2H, 7M, 19 L & Info  | Solidity |
-| 3 | 09.2025 | Hashlock | Lockon | Token Vesting | 4H, 10M, 11L | Solidity |
-| 4 | 09.2025 | Hashlock | Spiral Stake | Leverage Farming | 2H, 4M, 6L | Solidity |
+| № | Date | Provider | Project | Category | Vulnerabilities | Language | Report |
+|---|------|----------|---------|----------|-----------------|----------|--------|
+| 1 | 12.2025 | Private | Umbrea | DLMM | 6C, 6H, 7M, 13L | Solidity | - |
+| 2 | 11.2025 | Hashlock | Tenex Subnet | Blockchain | 2H, 7M, 19 L & Info  | Solidity | [📄 View](https://hashlock.com/wp-content/uploads/2025/10/Tenex-Smart-Contract-Audit-Report-Final-Repot-v4.pdf) |
+| 3 | 09.2025 | Hashlock | Lockon | Token Vesting | 4H, 10M, 11L | Solidity |  [📄 View](https://hashlock.com/wp-content/uploads/2025/11/LOCKON-Smart-Contract-Audit-Report-Final-Report-v6.pdf) |
+| 4 | 09.2025 | Hashlock | Spiral Stake | Leverage Farming | 2H, 4M, 6L | Solidity | [📄 View](https://hashlock.com/wp-content/uploads/2025/09/SpiralStake-Smart-Contract-Audit-Report-Final-Report-v4.pdf) |
 
 *+ additional engagements under NDA.*
 
