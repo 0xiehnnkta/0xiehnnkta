@@ -1,6 +1,6 @@
 # Hi, I'm Nikethan
 
-Security Researcher at [TECHFUND Inc](https://techfund.jp/en) — A Japanese StartUp Accelerator & Auditing Platform for Web2 & Web3 companies. **Completed 10+ client audits since joining**. Reached **1st place** in a Sherlock audit competition.
+Independent Security Researcher, previously worked at [TECHFUND Inc](https://techfund.jp/en) — A Japanese StartUp Accelerator & Auditing Platform for Web2 & Web3 companies. **Completed 10+ client audits since joining**. Reached **1st place** in a Sherlock audit competition.
 
 ## Strong Areas
 
