@@ -39,6 +39,7 @@ Independent Security Researcher, previously worked at [TECHFUND Inc](https://tec
 | 1 | 01.2025 | [Butter](https://immunefi.com/audit-competition/audit-comp-butter) | Prediction Market | 1 Insight | Top 5 |
 | 2 | 02.2025 | [Rova](https://audits.sherlock.xyz/contests/498) | Token Launchpad | 1M | Top 3 |
 | 4 | 10.2025 | [Belong](https://immunefi.com/audit-competition/audit-comp-belong/) | GameFi | 2C, 3M, 2 Insights | Top 10 |
+| 5 | 01.2026 | [VII FInance](https://cantina.xyz/competitions/eb93d215-e328-4d19-99ab-6c510acbb5aa) | Liquidity Manager | 1H | Top 20 |
 
 **Team**
 
