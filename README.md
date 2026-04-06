@@ -18,8 +18,6 @@ Independent Security Researcher, previously worked at [TECHFUND Inc](https://tec
 ```
   30+ Criticals & Highs  ·  Tons of Mediums & Lows  ·  15+ Total Engagements
 ```
-> Recent Private Audits (Showing only in past 6months)
-
 
 | № | Date | Provider | Project | Category | Vulnerabilities | Language | Report |
 |---|------|----------|---------|----------|-----------------|----------|--------|
