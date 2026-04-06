@@ -29,7 +29,7 @@ Independent Security Researcher, previously worked at [TECHFUND Inc](https://tec
 
 *+ additional engagements under NDA.*
 
-## Contests
+## Renowned Contest Results
 
 **Solo**
 
