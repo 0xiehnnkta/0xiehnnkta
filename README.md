@@ -10,7 +10,7 @@ Independent Security Researcher, previously worked at [TECHFUND Inc](https://tec
   Uniswap Integrations       ████████░░  4/5
   Lending & Borrowing        ████████░░  4/5
   Prediction Markets         ████████░░  4/5
-  Bridges & Cross-Chain      ███████░░░  3.5/5
+  Bridges & Cross-Chain      ████████░░  4/5
 ```
 
 ## Audits
