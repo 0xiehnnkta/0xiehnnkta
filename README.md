@@ -26,6 +26,8 @@ Independent Security Researcher, previously worked at [TECHFUND Inc](https://tec
 | 3 | 09.2025 | Hashlock | Lockon | Token Vesting | 4H, 10M, 11L | Solidity |  [📄 View](https://hashlock.com/wp-content/uploads/2025/11/LOCKON-Smart-Contract-Audit-Report-Final-Report-v6.pdf) |
 | 4 | 09.2025 | Hashlock | Spiral Stake | Leverage Farming | 2H, 4M, 6L | Solidity | [📄 View](https://hashlock.com/wp-content/uploads/2025/09/SpiralStake-Smart-Contract-Audit-Report-Final-Report-v4.pdf) |
 | 5 | 03.2026 | Pashov | Private | NFT Gacha Card Game | 3M, 3L | Solidity | |
+| 5 | 04.2026 | Pashov | Private | Staking | 3H, 3M, 8L | Solidity | |
+| 5 | 05.2026 | Pashov | Private | NFT Gacha Card Game |  | Solidity | |
 
 *+ additional engagements under NDA.*
 
