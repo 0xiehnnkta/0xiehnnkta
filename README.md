@@ -58,4 +58,4 @@ Independent Security Researcher, previously worked at [TECHFUND Inc](https://tec
 
 ## Connect
 
-[![X](https://img.shields.io/badge/X-@0xiehnnkta-000?style=flat&logo=x)](https://x.com/0xiehnnkta) [![Email](https://img.shields.io/badge/Email-0xiehnnkta@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:0xiehnnkta@gmail.com)
+[![X](https://img.shields.io/badge/X-@0xiehnnkta-EA4335?style=flat&logo=x)](https://x.com/0xiehnnkta) [![Email](https://img.shields.io/badge/Email-0xiehnnkta@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:0xiehnnkta@gmail.com)
