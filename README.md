@@ -21,21 +21,24 @@ Independent Security Researcher, previously worked at [TECHFUND Inc](https://tec
 
 | № | Date | Provider | Project | Category | Language |
 |---|------|----------|---------|----------|----------|
-| 1 | 10.2026 | Pashov | VF.AT | Invite-Only Bug Hunt | Rust |
-| 2 | 09.2026 | Pashov | Gage.cash | Invite-Only Bug Hunt | Solidity |
-| 3 | 09.2026 | Pashov | Tensora-2 | Invite-Only Bug Hunt | Rust, Solidity |
-| 4 | 09.2026 | Pashov | LI.FI-3 | Invite-Only Bug Hunt | Rust |
-| 5 | 09.2026 | Pashov | Tensora-1 | Invite-Only Bug Hunt | Rust, Solidity |
-| 6 | 07.2026 | Pashov | LI.FI-2 | Invite-Only Bug Hunt | Rust |
-| 7 | 07.2026 | Pashov | LI.FI-1 | Invite-Only Bug Hunt | Solidity |
-| 8 | 05.2026 | Private | Umbrea | DLMM | Solidity |
-| 9 | 04.2026 | Pashov | RAAC | Staking | Solidity |
-| 10 | 03.2026 | Pashov | Gemint | NFT Gacha Card Game | Solidity |
-| 11 | 03.2026 | Pashov | Arrakis | Liquidity Management | Solidity |
-| 12 | 12.2025 | Private | Umbrea | DLMM | Solidity |
-| 13 | 11.2025 | Hashlock | Tenex Subnet | Blockchain | Solidity |
-| 14 | 09.2025 | Hashlock | Lockon | Token Vesting | Solidity |
-| 15 | 09.2025 | Hashlock | Spiral Stake | Leverage Farming | Solidity |
+| 1 | 10.2026 | Pashov | VF.AT | Solana CLMM Liquidity Manager | Rust |
+| 2 | 09.2026 | Pashov | Gage.cash | Intent-Based Lending | Solidity |
+| 3 | 09.2026 | Pashov | Tensora-2 | Wrapped TAO / Staking (Bittensor) | Rust, Solidity |
+| 4 | 09.2026 | Hashlock | Undisclosed | Stablecoin / Staking Vault | Solidity |
+| 5 | 09.2026 | Pashov | LI.FI-3 | Cross-Chain Intents (Solana) | Rust |
+| 6 | 09.2026 | Pashov | Tensora-1 | Wrapped TAO / Staking (Bittensor) | Rust, Solidity |
+| 7 | 08.2026 | Hashlock | Undisclosed | Perpetual DEX | Solidity |
+| 8 | 07.2026 | Pashov | LI.FI-2 | Cross-Chain Intents (Solana) | Rust |
+| 9 | 07.2026 | Pashov | LI.FI-1 | Cross-Chain Intents | Solidity |
+| 10 | 06.2026 | Hashlock | Undisclosed | Stablecoin / Staking Vault | Solidity |
+| 11 | 05.2026 | Private | Umbrea | DLMM | Solidity |
+| 12 | 04.2026 | Pashov | RAAC | Staking | Solidity |
+| 13 | 03.2026 | Pashov | Gemint | NFT Gacha Card Game | Solidity |
+| 14 | 03.2026 | Pashov | Arrakis | Liquidity Management | Solidity |
+| 15 | 12.2025 | Private | Umbrea | DLMM | Solidity |
+| 16 | 11.2025 | Hashlock | Tenex Subnet | Blockchain | Solidity |
+| 17 | 09.2025 | Hashlock | Lockon | Token Vesting | Solidity |
+| 18 | 09.2025 | Hashlock | Spiral Stake | Leverage Farming | Solidity |
 
 *+ additional engagements under NDA.*
 
