@@ -21,15 +21,15 @@ Independent Security Researcher, previously worked at [TECHFUND Inc](https://tec
 
 | № | Date | Provider | Project | Category | Language |
 |---|------|----------|---------|----------|----------|
-| 1 | 10.2026 | Pashov | Undisclosed | Liquidity Management | Rust |
-| 2 | 09.2026 | Pashov | Undisclosed | Lending | Solidity |
-| 3 | 09.2026 | Pashov | Undisclosed | Liquid Staking | Rust, Solidity |
+| 1 | 10.2026 | Pashov | VF.AT | Solana CLMM Liquidity Manager | Rust |
+| 2 | 09.2026 | Pashov | Gage.cash | Intent-Based Lending | Solidity |
+| 3 | 09.2026 | Pashov | Tensora-2 | Wrapped TAO / Staking (Bittensor) | Rust, Solidity |
 | 4 | 09.2026 | Hashlock | Undisclosed | Stablecoin / Staking Vault | Solidity |
-| 5 | 09.2026 | Pashov | Undisclosed | Cross-Chain Swaps | Rust |
-| 6 | 09.2026 | Pashov | Undisclosed | Liquid Staking | Rust, Solidity |
+| 5 | 09.2026 | Pashov | LI.FI-3 | Cross-Chain Intents (Solana) | Rust |
+| 6 | 09.2026 | Pashov | Tensora-1 | Wrapped TAO / Staking (Bittensor) | Rust, Solidity |
 | 7 | 08.2026 | Hashlock | Undisclosed | Perpetual DEX | Solidity |
-| 8 | 07.2026 | Pashov | Undisclosed | Cross-Chain Swaps | Rust |
-| 9 | 07.2026 | Pashov | Undisclosed | Cross-Chain Swaps | Solidity |
+| 8 | 07.2026 | Pashov | LI.FI-2 | Cross-Chain Intents (Solana) | Rust |
+| 9 | 07.2026 | Pashov | LI.FI-1 | Cross-Chain Intents | Solidity |
 | 10 | 06.2026 | Hashlock | Undisclosed | Stablecoin / Staking Vault | Solidity |
 | 11 | 05.2026 | Private | Umbrea | DLMM | Solidity |
 | 12 | 04.2026 | Pashov | RAAC | Staking | Solidity |
