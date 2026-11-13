@@ -19,16 +19,23 @@ Independent Security Researcher, previously worked at [TECHFUND Inc](https://tec
   30+ Criticals & Highs  ·  Tons of Mediums & Lows  ·  25+ Total Engagements
 ```
 
-| № | Date | Provider | Project | Category | Vulnerabilities | Language | Report |
-|---|------|----------|---------|----------|-----------------|----------|--------|
-| 1 | 12.2025 | Private | Umbrea | DLMM | 6C, 6H, 7M, 13L | Solidity | - |
-| 2 | 11.2025 | Hashlock | Tenex Subnet | Blockchain | 2H, 7M, 19 L & Info  | Solidity | [📄 View](https://hashlock.com/wp-content/uploads/2025/10/Tenex-Smart-Contract-Audit-Report-Final-Repot-v4.pdf) |
-| 3 | 09.2025 | Hashlock | Lockon | Token Vesting | 4H, 10M, 11L | Solidity |  [📄 View](https://hashlock.com/wp-content/uploads/2025/11/LOCKON-Smart-Contract-Audit-Report-Final-Report-v6.pdf) |
-| 4 | 09.2025 | Hashlock | Spiral Stake | Leverage Farming | 2H, 4M, 6L | Solidity | [📄 View](https://hashlock.com/wp-content/uploads/2025/09/SpiralStake-Smart-Contract-Audit-Report-Final-Report-v4.pdf) |
-| 5 | 03.2026 | Pashov | Gemint | NFT Gacha Card Game | 3M, 3L | Solidity | |
-| 6 | 03.2026 | Pashov | Arrakis | Liquidity Management | 2M, 7L | Solidity | |
-| 7 | 04.2026 | Pashov | RAAC | Staking | 4H, 7M, 8L | Solidity | |
-| 8 | 05.2026 | Private | Umbrea | DLMM | 5M, 2L | Solidity | - |
+| № | Date | Provider | Project | Category | Language |
+|---|------|----------|---------|----------|----------|
+| 1 | 10.2026 | Pashov | VF.AT | Invite-Only Bug Hunt | - |
+| 2 | 09.2026 | Pashov | Gage.cash | Invite-Only Bug Hunt | - |
+| 3 | 09.2026 | Pashov | Tensora | Invite-Only Bug Hunt | - |
+| 4 | 09.2026 | Pashov | LI.FI | Invite-Only Bug Hunt | - |
+| 5 | 09.2026 | Pashov | Tensora | Invite-Only Bug Hunt | - |
+| 6 | 07.2026 | Pashov | LI.FI | Invite-Only Bug Hunt | - |
+| 7 | 07.2026 | Pashov | LI.FI | Invite-Only Bug Hunt | - |
+| 8 | 05.2026 | Private | Umbrea | DLMM | Solidity |
+| 9 | 04.2026 | Pashov | RAAC | Staking | Solidity |
+| 10 | 03.2026 | Pashov | Gemint | NFT Gacha Card Game | Solidity |
+| 11 | 03.2026 | Pashov | Arrakis | Liquidity Management | Solidity |
+| 12 | 12.2025 | Private | Umbrea | DLMM | Solidity |
+| 13 | 11.2025 | Hashlock | Tenex Subnet | Blockchain | Solidity |
+| 14 | 09.2025 | Hashlock | Lockon | Token Vesting | Solidity |
+| 15 | 09.2025 | Hashlock | Spiral Stake | Leverage Farming | Solidity |
 
 *+ additional engagements under NDA.*
 
@@ -40,8 +47,8 @@ Independent Security Researcher, previously worked at [TECHFUND Inc](https://tec
 |---|------|---------|----------|-----------------|------|
 | 1 | 01.2025 | [Butter](https://immunefi.com/audit-competition/audit-comp-butter) | Prediction Market | 1 Insight | Top 5 |
 | 2 | 02.2025 | [Rova](https://audits.sherlock.xyz/contests/498) | Token Launchpad | 1M | Top 3 |
-| 4 | 10.2025 | [Belong](https://immunefi.com/audit-competition/audit-comp-belong/) | GameFi | 2C, 3M, 2 Insights | Top 10 |
-| 5 | 01.2026 | [VII FInance](https://cantina.xyz/competitions/eb93d215-e328-4d19-99ab-6c510acbb5aa) | Liquidity Manager | 1H | Top 20 |
+| 3 | 10.2025 | [Belong](https://immunefi.com/audit-competition/audit-comp-belong/) | GameFi | 2C, 3M, 2 Insights | Top 10 |
+| 4 | 01.2026 | [VII Finance](https://cantina.xyz/competitions/eb93d215-e328-4d19-99ab-6c510acbb5aa) | Liquidity Manager | 1H | Top 20 |
 
 **Team**
 
