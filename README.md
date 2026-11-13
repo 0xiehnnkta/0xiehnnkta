@@ -21,13 +21,13 @@ Independent Security Researcher, previously worked at [TECHFUND Inc](https://tec
 
 | № | Date | Provider | Project | Category | Language |
 |---|------|----------|---------|----------|----------|
-| 1 | 10.2026 | Pashov | VF.AT | Invite-Only Bug Hunt | - |
-| 2 | 09.2026 | Pashov | Gage.cash | Invite-Only Bug Hunt | - |
-| 3 | 09.2026 | Pashov | Tensora-2 | Invite-Only Bug Hunt | - |
-| 4 | 09.2026 | Pashov | LI.FI-3 | Invite-Only Bug Hunt | - |
-| 5 | 09.2026 | Pashov | Tensora-1 | Invite-Only Bug Hunt | - |
+| 1 | 10.2026 | Pashov | VF.AT | Invite-Only Bug Hunt | Rust |
+| 2 | 09.2026 | Pashov | Gage.cash | Invite-Only Bug Hunt | Solidity |
+| 3 | 09.2026 | Pashov | Tensora-2 | Invite-Only Bug Hunt | Rust, Solidity |
+| 4 | 09.2026 | Pashov | LI.FI-3 | Invite-Only Bug Hunt | Rust |
+| 5 | 09.2026 | Pashov | Tensora-1 | Invite-Only Bug Hunt | Rust, Solidity |
 | 6 | 07.2026 | Pashov | LI.FI-2 | Invite-Only Bug Hunt | - |
-| 7 | 07.2026 | Pashov | LI.FI-1 | Invite-Only Bug Hunt | - |
+| 7 | 07.2026 | Pashov | LI.FI-1 | Invite-Only Bug Hunt | Solidity |
 | 8 | 05.2026 | Private | Umbrea | DLMM | Solidity |
 | 9 | 04.2026 | Pashov | RAAC | Staking | Solidity |
 | 10 | 03.2026 | Pashov | Gemint | NFT Gacha Card Game | Solidity |
